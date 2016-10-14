@@ -45,8 +45,32 @@ route print
 - Sistema que _relaciona_ **dois** ou **mais** _computadoes_ para que estes _trabalhem_ de maneira _conjunta_ para **processar** uma tarefa. Esses _computadores_ **dividem** entre _si_ as **atividades** de **processamento** e **executam** este trabalho de maneira **simultânea**
 - Cada computador que faz parte do cluster recebe o nome de **nó (ou node)**. Teoricamente, não há limite máximo de nós, mas independentemente da quantidade de máquinas que o compõe, o cluster deve ser _"transparente"_, ou seja, ser _visto pelo usuário_ ou por _outro sistema_ que necessita deste **processamento** como um **único computador**.
 
-## Paginacao
+## Paginação
 >
 - Processo de **virtualização da memória** que é a **subdivisão** da **memória física** em _pequenas partições(frames)_ para _permitir_ uma **utilização** mas *eficiente** da **memória**.
 - _Divide_ **memória RAM** e **disco(HD)** em _blocos_ em mesmo tamanho
 - _Cria_ a **memória virtual**
+
+## API
+>
+- É uma forma com que **aplicativos** possam se **comunicar**
+- **Restringe** _informações_, _recursos_
+- **EXEMPLO:** O _google_ tem **API** do google maps, que _mostra_ os lugares cadastrados.
+
+## Redehost
+>
+- É uma _empresa_ (tipo _AMAZON_), que ter vários _serviços_ como, **sevidor**, **dominio**, **e-mail**, **hospedagem**
+
+## Exchange
+>
+- É uma _plataforma_ de **e-mail** desenvolvida pela _Microsoft_, que possui _recursos_ para **compartilhamento** e **sincronização** de _conteúdo_.
+- _Softwares de e-mails_ se **conectam** ao **servidor** e **sincroniza** as **mensagens**, ficando como se fosse em _tempo real_
+
+## Aker
+>
+- É uma _empresa_ que fabrica **soluções de segurança** da _informação_, vende **HARDWARE** e **SOFTWARES**:  **firewall**, **gateway**
+
+## IIS
+>
+- **Servidor web** do _Windows Server_
+- A função Servidor Web (IIS) no Windows Server 2012 fornece uma plataforma segura, fácil de gerenciar, modular e extensível para a hospedagem confiável de sites, serviços e aplicativos. Com o IIS 8 você pode compartilhar informações com usuários na Internet, em uma intranet ou extranet. O IIS 8 é uma plataforma Web unificada que integra IIS, ASP.NET, serviços de FTP, PHP e Windows Communication Foundation (WCF).
